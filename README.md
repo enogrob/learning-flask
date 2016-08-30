@@ -40,7 +40,7 @@ This video course is for new developers who want to explore Flask and build cust
 ## Contents
 
 ```
-[ ]Section: 1 Setting Up the Environment
+[x]Section: 1 Setting Up the Environment
 	1. The Course Overview 1:59
 	2. Text Editor 2:20
 	3. Command-line Interface 1:52
